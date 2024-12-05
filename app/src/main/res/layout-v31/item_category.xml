@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="16dp"
+    android:layout_marginBottom="8dp"
+    android:background="@drawable/rounded_card">
+
+    <!-- Conteneur de l'image -->
+        <FrameLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <!-- Image de catégorie -->
+        <ImageView
+            android:id="@+id/category_image"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:scaleType="centerCrop"
+            android:src="@drawable/entrees"
+            android:background="@drawable/rounded_image"
+            android:clipToOutline="true"
+            android:contentDescription="Image de catégorie" />
+        </FrameLayout>
+
+            <!-- Texte de la catégorie -->
+        <TextView
+        android:id="@+id/category_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="Catégorie"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:textAlignment="center" />
+    </LinearLayout>

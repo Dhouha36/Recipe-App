@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Recipe App</string>
+    <string name="logo">Logo</string>
+    <string name="recipe_app">Recipe App</string>
+    <string name="d_couvrir">Découvrir</string>
+    <string name="image_de_cat_gorie">Image de catégorie</string>
+    <string name="cat_gorie">Catégorie</string>
+    <string name="image_du_plat">Image du plat</string>
+    <string name="nom_du_plat">Nom du plat</string>
+    <string name="todo">TODO</string>
+</resources>

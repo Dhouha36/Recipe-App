@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/welcome">
+
+
+
+    <!-- Bouton pour aller à MainActivity -->
+    <Button
+        android:id="@+id/button_continue"
+        android:layout_width="200dp"
+        android:layout_height="60dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="380dp"
+        android:backgroundTint="#ED8A7D"
+        android:drawableTint="#ED8A7D"
+        android:foregroundTint="#ED8A7D"
+        android:text="@string/d_couvrir"
+        android:textColor="#FFFFFF"
+        android:textColorLink="#ED8A7D"
+        android:textSize="25sp"
+        app:iconTint="#ED8A7D"
+        app:rippleColor="#ED8A7D"
+        app:strokeColor="#ED8A7D" />
+</RelativeLayout>

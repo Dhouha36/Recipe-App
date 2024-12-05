@@ -1,0 +1,41 @@
+<!-- item_dish.xml -->
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:elevation="4dp"
+    android:layout_gravity="center"
+    android:radius="12dp"> <!-- Bords arrondis -->
+
+        <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- Image du plat -->
+        <ImageView
+            android:id="@+id/dish_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/entrees"
+            android:contentDescription="@string/image_du_plat"
+            android:layout_marginEnd="16dp"
+            android:scaleType="centerCrop" />
+
+        <!-- Nom du plat -->
+        <TextView
+            android:id="@+id/dish_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/nom_du_plat"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:textStyle="bold"
+            android:ellipsize="end"
+            android:maxLines="1" />
+
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>

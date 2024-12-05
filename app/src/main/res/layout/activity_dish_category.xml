@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f0cecd">
+
+    <!-- Toolbar -->
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:elevation="4dp"
+        android:titleTextColor="@android:color/white">
+
+        <!-- Ajout du logo et du titre centré -->
+        <ImageView
+            android:src="@drawable/logo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="start|center_vertical"
+            android:contentDescription="@string/logo"/>
+
+        <TextView
+            android:id="@+id/app_title"
+            android:text="@string/recipe_app"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"/>
+    </androidx.appcompat.widget.Toolbar>
+
+    <!-- ListView pour afficher les plats -->
+    <ListView
+        android:id="@+id/dish_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"/>
+</LinearLayout>

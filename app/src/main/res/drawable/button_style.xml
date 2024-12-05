@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Couleur de fond -->
+    <solid android:color="#C15B55" /> <!-- Changez la couleur ici -->
+
+    <!-- Coins arrondis -->
+    <corners android:radius="20dp" />
+
+    <!-- Marges intérieures (padding) -->
+    <padding
+        android:left="16dp"
+        android:top="8dp"
+        android:right="16dp"
+        android:bottom="8dp" />
+
+    <!-- Bordure (facultatif) -->
+    <stroke
+        android:width="2dp"
+        android:color="#C15B55" /> <!-- Couleur de la bordure -->
+</shape>
