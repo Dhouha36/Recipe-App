@@ -24,7 +24,7 @@ l'application offre une interface intuitive pour accéder facilement à une vari
 ---
 
 ## 📸 Aperçu
-![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)) (![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)) (![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36))
+![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36) ![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36) ![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)
 
 ---
 
