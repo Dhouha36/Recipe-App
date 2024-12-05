@@ -24,18 +24,7 @@ l'application offre une interface intuitive pour accéder facilement à une vari
 ---
 
 ## 📸 Aperçu
-<p align="center">
-  <img src="![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)" alt="Image 1"/>
-  <img src="![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)" alt="Image 1"/>
-  <img src="![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)" alt="Image 1"/>
-  <img src="![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)" alt="Image 1"/>
-</p>
-
-
- 
- 
-
-
+![Image 1](![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)) ![Image 2](![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36)) ![Image 3](![1000010115 (1)](https://github.com/user-attachments/assets/b72c55f8-8a61-48ce-96e4-ea9a76059a36))
 
 ---
 
